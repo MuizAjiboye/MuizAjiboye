@@ -1,6 +1,19 @@
-# 💫 About Me:
-# 👋 Hi, I'm Muiz Ajiboye<br><br>Add a small introduction — for example:<br>> Data Analyst & Workflow Optimization Specialist based in Lisbon, Portugal. Passionate about data quality, automation, and Power BI storytelling.<br><br>---<br><br>## 💫 About Me<br><br>- 🧑‍💻 I’m currently working on **data auditing and Power BI dashboards**<br>- 🤝 I’m looking to collaborate on **data visualization and analytics projects**<br>- 💡 I’m looking for help with **advanced DAX and SQL optimization**<br>- 🌱 I’m currently learning **Python for data automation**<br>- 💬 Ask me about **data quality, compliance workflows, or dashboard design**<br>- ⚡ Fun fact: I love optimizing spreadsheets more than coffee breaks ☕<br><br>---<br><br>### 🛠️ Tools & Technologies<br>**Power BI** • **SQL** • **Python** • **R** • **Tableau** • **Excel** • **Jira** • **Confluence**<br><br>---<br><br>### 📫 Connect with me<br>[LinkedIn](https://linkedin.com/in/muizajiboye) • [GitHub](https://github.com/muizajiboye)<br>
+# 👋 Hi, I'm Muiz Ajiboye
 
+Data & Business Analyst based in **Lisbon, Portugal** — passionate about **data quality**, **automation**, and **Power BI storytelling**.
+
+---
+
+## 💫 About Me
+
+- 🧑‍💻 I’m currently working on **data auditing and Power BI dashboards**
+- 🤝 I’m looking to collaborate on **data visualization and analytics projects**
+- 💡 I’m looking for help with **advanced DAX and SQL optimization**
+- 🌱 I’m currently learning **Python for data automation**
+- 💬 Ask me about **data quality, compliance workflows, or dashboard design**
+- ⚡ Fun fact: I love optimizing spreadsheets more than coffee breaks ☕
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/muizajiboye) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajiboyemuiz@gmail.com ) 
@@ -15,10 +28,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MuizAjiboye&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Favourite Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=MuizAjiboye&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
