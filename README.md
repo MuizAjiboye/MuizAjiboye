@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muiz Ajiboye
+# 👋 Hi, I am Muiz Ajiboye
 
 Data & Business Analyst based in **Lisbon, Portugal** — passionate about **data quality**, **automation**, and **Power BI storytelling**.
 
