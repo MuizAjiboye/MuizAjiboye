@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muiz Ajiboye
 
-Data & Business Analyst based in **Lisbon, Portugal** and **Dublin, Ireland**  — passionate about **data quality**, **automation**, and **Power BI storytelling**.
+Data & Business Analyst based in **Lisbon, Portugal** and **Dublin, Ireland**. I'm passionate about **data quality**, **automation**, and **Power BI storytelling**.
 
 ---
 
